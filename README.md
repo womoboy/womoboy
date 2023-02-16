@@ -1,4 +1,8 @@
+<style>
+p {
+  background-color: black;
+  color: white;
+}
+</style>
 # Hello World! 💻
-
-<link rel='stylesheet' src='style.css'>
-<p style=''>this is a simple text</p>
+<p>this is a simple text</p>
