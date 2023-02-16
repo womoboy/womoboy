@@ -1,8 +1,2 @@
-<style>
-p {
-  background-color: black;
-  color: white;
-}
-</style>
 # Hello World! 💻
-<p>this is a simple text</p>
+<p style="color: white; background-color: black;">this is a simple text</p>
