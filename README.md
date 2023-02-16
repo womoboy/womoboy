@@ -1,3 +1,4 @@
 # Hello World! 💻
 
-<p>this is a simple text</p>
+<link rel='stylesheet' src='style.css'>
+<p style=''>this is a simple text</p>
