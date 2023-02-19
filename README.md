@@ -4,7 +4,7 @@
 # Welcome to my github page (~˘▾˘)~
 Hi, I'm Reza, I'm a front-end developer, my favorite language is javascript and there is some techs i know: 👇 
 
-<div style="display:flex; width:100%; background-color:rgba(250,250,250,0.5);">
+<div style="display:flex; width:100%; background-color:gray;">
     <img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
     <img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
