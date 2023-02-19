@@ -5,10 +5,11 @@
 Hi, I'm Reza, I'm a front-end developer, my favorite language is javascript and there is some techs i know: 👇 
 
 <img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
+<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/css-1.svg">
+<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/reactjs-1.svg">
 
-##
+#
 
 ## What i want to learns in future
 
