@@ -4,11 +4,12 @@ Hi, I'm Reza, I'm a front-end developer, my favorite language is javascript
 ### There is some techs i know: 👇
 
 <img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
-<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
-<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
-<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
-<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"/>
-<img style="padding-right:10px;" align="left" width="30px" alt="javascript log" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"/>
+<img style="padding-right:10px;" align="left" width="30px" alt="html log" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
+<img style="padding-right:10px;" align="left" width="30px" alt="css log" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
+<img style="padding-right:10px;" align="left" width="30px" alt="reactJs log" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"/>
+<img style="padding-right:10px;" align="left" width="30px" alt="sass log" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"/>
+<img style="padding-right:10px;" align="left" width="30px" alt="nodeJs log" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"/>
+<img style="padding-right:10px;" align="left" width="30px" alt="bootstrap log" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/>
 <br/>
 
 ##
