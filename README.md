@@ -1,10 +1,10 @@
 
-<div style="display:flex;">
-  <div style="flex:1;">
+<div>
+  <div style="display:inline-block; max-width:50%;">
     <h2>Welcome to my github page (~˘▾˘)~</h2>
     Hi, I'm Reza, I'm a front-end developer, my favorite language is javascript 
   </div>
-  <div style="flex:1;">
+  <div style="display:inline-block; max-width:50%;">
     <img align="center" width="300px" alt="javascript log" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAzYzc0ZTdjOTNjNmFlZGE3ZWYyNjFiYjA0MTlkMDljZmRmNTExYSZjdD1n/PvvSfSDFoAL5e/giphy.gif"/>
   </div>
 <div>
