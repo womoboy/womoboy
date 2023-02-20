@@ -1,4 +1,4 @@
-# Welcome to my github page (~˘▾˘)~
+# 👋 Welcome
 Hi, I'm Reza, I'm a front-end developer, my favorite language is javascript 
 
 ### There is some techs i know: 👇
