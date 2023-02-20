@@ -1,7 +1,13 @@
-<img align="center" width="300px" alt="javascript log" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JlNTRmYTg3NWMwMGY0YWI1NmI4MDdiNWU5ZTIyYmM3YTJjMjk2ZCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
-# Welcome to my github page (~˘▾˘)~
-Hi, I'm Reza, I'm a front-end developer, my favorite language is javascript 
+<div>
+  <div display="inline-block" width="50%">
+    <h2>Welcome to my github page (~˘▾˘)~</h2>
+    Hi, I'm Reza, I'm a front-end developer, my favorite language is javascript 
+  </div>
+  <div display="inline-block" width="50%">
+    <img align="center" width="300px" alt="javascript log" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JlNTRmYTg3NWMwMGY0YWI1NmI4MDdiNWU5ZTIyYmM3YTJjMjk2ZCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"/>
+  </div>
+<div>
 
 ### There is some techs i know: 👇
 
